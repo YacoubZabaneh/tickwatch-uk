@@ -1,0 +1,9 @@
+[
+  {"id":"demo-1","date":"2024-06-03T10:00:00","location":"Bristol","species":"Marsh tick","latinName":"Ixodes apronophorus"},
+  {"id":"demo-1","date":"2024-06-03T10:00:00","location":" bristol ","species":"Marsh tick","latinName":"Ixodes apronophorus"},
+  {"id":"demo-2","date":"2024-06-09T23:59:59","location":"Bristol","species":"Southern rodent tick"},
+  {"id":"demo-3","date":"2024-06-10T12:00:00","location":"Cardiff","species":"Marsh tick"},
+  {"id":"demo-4","date":"2024-07-01T09:00:00","location":"Glasgow","species":"Marsh tick","latinName":"Ixodes apronophorus"},
+  {"id":"demo-5","date":"2024-07-02T13:00:00","location":"Bath","species":"Marsh tick","latinName":"Ixodes apronophorus"},
+  {"id":"demo-invalid","date":"2024-02-30T12:00:00","location":"Bristol"}
+]
